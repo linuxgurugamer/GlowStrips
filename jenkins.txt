@@ -31,7 +31,7 @@
 1:GlowStrips, GlowStrips.version
 
 # 2:PROJNAME, PROJFILE, VERSIONFILE, PLUGINSFOLDER
-2:GlowStrips,GlowStrips/KerbalHotSeat.csproj,GlowStrips.version,GameData/KerbalHotSeat/Plugins
+2:GlowStrips,GlowStrips/GlowStrips.csproj,GlowStrips.version,GameData/GlowStrips/Plugins
 
 # 3:SOURCEFILE, DESTDIR
 3:GlowStrips.version,GameData/GlowStrips
