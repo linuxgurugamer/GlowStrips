@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="buildRelease.bat" />
+    <File Path="Changelog.txt" />
+    <File Path="deploy.bat" />
+    <File Path="GlowStrips.version" />
+    <File Path="jenkins.txt" />
+    <File Path="LICENSE.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="GlowStrips/GlowStrips.csproj" Id="67ce3a22-a6fb-485c-aa66-a2200bca975a" />
+</Solution>

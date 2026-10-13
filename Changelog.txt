@@ -1,0 +1,4 @@
+Changelog
+
+x.x.x
+	Updated for KSP 1.12.5
